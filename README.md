@@ -11,3 +11,18 @@ An output file with ".avinash" extension will be created.
 ./decode "filename"
 
 An output file named recovered_"filename" with ".txt" extension will be created
+
+# Testing
+It is noticed that with increase in file size there's an increase in compression ratio.
+
+sample1 before compression - 7.9kB
+
+sample1 after compression - 5.6kB
+
+sample1 compression ratio = 7.9/5.6 = 1.41
+
+sample2 before compression - 22kB
+
+sample2 after compression - 13.9kB
+
+sample2 compression ratio = 22/5.6 = 1.58
