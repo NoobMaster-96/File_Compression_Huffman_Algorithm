@@ -5,7 +5,9 @@ Huffman Algorithm is an efficient way for file Compression and Decompression. Th
 # Usage
 ## For Compression:
 ./encode "filename"
+
 An output file with .avinash extension will be created.
 ## For Decompression:
 ./decode "filename"
+
 An output file named recovered_"filename" with .txt extension will be created
