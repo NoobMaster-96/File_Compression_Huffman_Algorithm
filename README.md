@@ -1,8 +1,10 @@
 # File Compression Using Huffman's Algorithm
 # About
+This is a CLI application for compressing .txt files using Huffman's algorithm.
 Huffman Algorithm is an efficient way for file Compression and Decompression. This program exactly follows huffman algorithm. It reads frequent characters from input text file and replace it with shorter binary codeword. The original file can be produced again without loosing any bit.
 
 # Usage
+Download or clone this directory on your system. Open terminal and use the following commands.
 ## For Compression:
 ./encode "filename"
 
